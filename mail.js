@@ -29,3 +29,10 @@ async function main() {
 main().catch(console.error);
 
 
+// Write a nodejs module to encrypt and verify the password using bcryptjs
+// encryptPassword(string): string
+// verifyPassword(hashPw, password):boolean
+
+// Write a nodejs module to create and verify jwtToken using jsonwebtoken.
+//createToken(): string
+// verifyToken(): boolean
